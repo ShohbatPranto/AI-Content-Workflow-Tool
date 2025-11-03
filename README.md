@@ -1,12 +1,5 @@
 # **🤖 AI Content Workflow Tool**
 
-\<p align="center"\>  
-\<img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge\&logo=python" alt="Python 3.10+"/>  
-\<img src="https://img.shields.io/badge/Streamlit-gray?style=for-the-badge\&logo=streamlit" alt="Streamlit"/>  
-\<img src="https://img.shields.io/badge/LangChain-blueviolet?style=for-the-badge\&logo=langchain" alt="LangChain"/>  
-\<img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge\&logo=openai" alt="OpenAI"/>  
-\<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License: MIT"/>  
-\</p\>  
 An advanced web application built with Streamlit, LangChain, and OpenAI to generate and refine high-quality content using a structured, multi-step prompt chaining workflow.
 
 This tool guides users from a simple topic to a fully polished piece of content (blog post, ad copy, etc.) by breaking the creative process into four distinct, editable stages.
