@@ -34,9 +34,6 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### **2. Clone the Repository**
 
-git clone [https://github.com/your-username/ai-content-workflow-tool.git\](https://github.com/your-username/ai-content-workflow-tool.git)  
-cd ai-content-workflow-tool
-
 ### **3. Set Up a Virtual Environment**
 
 It is highly recommended to use a virtual environment.
