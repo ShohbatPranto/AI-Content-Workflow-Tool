@@ -34,6 +34,8 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### **2. Clone the Repository**
 
+bash git clone https://github.com/ShohbatPranto/AI-Content-Workflow-Tool.git cd AIContentWorkflow
+
 ### **3. Set Up a Virtual Environment**
 
 It is highly recommended to use a virtual environment.
